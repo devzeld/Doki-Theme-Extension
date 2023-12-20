@@ -1,0 +1,11 @@
+{
+    "name": "Doki Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Allow you to change your theme quickly",
+
+    "action": {
+        "default_icon": "doki.png",
+        "default_popup": "index.html"
+    } 
+}
